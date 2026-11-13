@@ -1,0 +1,26 @@
+<style> 
+body { 
+background: lightcyan; 
+width: 800px; 
+margin: auto; 
+} 
+h1 { 
+color: maroon; 
+text-align: center; 
+} 
+
+p { 
+color: gray; 
+border: 1px solid gray; 
+padding: 10px; 
+} 
+</style> 
+
+#刺繍の種類
+
+##フランス刺繍
+![huransu](huransu.jpg)
+##クロスステッチ
+![cross](cross.png)
+##ハーダンガー刺繍
+![hadan](hadan.png)
